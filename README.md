@@ -19,4 +19,9 @@ wordpress credentials has to been set in next path
 ```
 ----------------------------------------------------
 
+postman collection in the following path
+```
+/public/Test.postman_collection.json
+```
+----------------------------------------------------
 
